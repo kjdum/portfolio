@@ -3,7 +3,7 @@
 
 [Project 1: NFL Machine Learning Model](https://github.com/kjdum/portfolio/blob/main/NFL%20Python%20Machine%20Learning.ipynb)
 
-![1stD_Boxplot](https://github.com/kjdum/portfolio/blob/main/assets/1stD_boxplot.png)
+![1stD_Boxplot](https://github.com/kjdum/portfolio/blob/main/assets/1stD_boxplot.jpg)
 
 This project builds a machine learning model in python to predict NFL game outcomes based on team stats accumulated in past games.
 
@@ -14,7 +14,7 @@ This project builds a machine learning model in python to predict NFL game outco
 
 [Project 2: SQL Customer Churn Rate](https://github.com/kjdum/portfolio/blob/main/postgreSQL_acquisition.pdf)
 
-![Churn_ERD](https://github.com/kjdum/portfolio/blob/main/assets/Churn_ERD.png)
+![Churn_ERD](https://github.com/kjdum/portfolio/blob/main/assets/Churn_ERD.jpg)
 
 This project involves crafting a reasearch question and using SQL to answer the question.
 
