@@ -3,7 +3,7 @@
 
 [Project 1: NFL Machine Learning Model](https://github.com/kjdum/portfolio/blob/main/NFL%20Python%20Machine%20Learning.ipynb)
 
-![1stD_Boxplot}
+![1stD_Boxplot](https://github.com/kjdum/portfolio/blob/main/assets/1stD_boxplot.png)
 
 This project builds a machine learning model in python to predict NFL game outcomes based on team stats accumulated in past games.
 
