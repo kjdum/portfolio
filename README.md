@@ -1,7 +1,7 @@
 # Data Analytics Projects
 
 
-##[Project 1: NFL Machine Learning Model](https://github.com/kjdum/portfolio/blob/main/NFL%20Python%20Machine%20Learning.ipynb)
+[Project 1: NFL Machine Learning Model](https://github.com/kjdum/portfolio/blob/main/NFL%20Python%20Machine%20Learning.ipynb)
 
 This project builds a machine learning model in python to predict NFL game outcomes based on team stats accumulated in past games.
 
@@ -10,7 +10,7 @@ This project builds a machine learning model in python to predict NFL game outco
 -The model is optimized to produce the high accuracy predictions.
 
 
-##[Project 2: SQL Customer Churn Rate](https://github.com/kjdum/portfolio/blob/main/postgreSQL_acquisition.pdf)
+[Project 2: SQL Customer Churn Rate](https://github.com/kjdum/portfolio/blob/main/postgreSQL_acquisition.pdf)
 
 This project involves crafting a reasearch question and using SQL to answer the question.
 
