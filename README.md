@@ -19,5 +19,5 @@ This project builds a machine learning model in python to predict NFL game outco
 This project involves crafting a reasearch question and using SQL to answer the question.
 
 - Data involves on site database and importing a table from a csv file.
-- Includes ERD.
+- Includes Entity Relationship Diagram.
 - Two tables are joined in a CTE to create a query that finds the overall customer churn rate.
