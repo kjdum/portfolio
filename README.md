@@ -14,7 +14,7 @@ This project builds a machine learning model in python to predict NFL game outco
 
 [Project 2: SQL Customer Churn Rate](https://github.com/kjdum/portfolio/blob/main/postgreSQL_acquisition.pdf)
 
-![Churn_ERD]
+![Churn_ERD](https://github.com/kjdum/portfolio/blob/main/assets/Churn_ERD.png)
 
 This project involves crafting a reasearch question and using SQL to answer the question.
 
