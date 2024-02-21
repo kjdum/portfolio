@@ -1,7 +1,7 @@
 # Data Analytics Projects
 
 
-#[Project 1: NFL Machine Learning Model]
+#[Project 1: NFL Machine Learning Model](https://github.com/kjdum/portfolio/blob/main/NFL%20Python%20Machine%20Learning.ipynb)
 
 This project builds a machine learning model in python to predict NFL game outcomes based on team stats accumulated in past games.
 
