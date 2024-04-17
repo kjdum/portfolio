@@ -21,3 +21,14 @@ This project involves crafting a reasearch question and using SQL to answer the 
 - Data involves on site database and importing a table from a csv file.
 - Includes Entity Relationship Diagram.
 - Two tables are joined in a CTE to create a query that finds the overall customer churn rate.
+
+
+[Project 3: R Data Cleaning Churn Dataset](https://github.com/kjdum/portfolio/blob/main/Data_cleaning_churn.pdf)
+
+![PCA_loadings](/assets/PCA_loadings.jpg)
+
+I clean a dataset and perform PCA on quantitative, continuous variables.
+
+- Data comes from a telecommunication csv file used for analyzing the business.
+- Focuses on detection and removal of: duplicates, missing values, outliers, and re-expression of categorical variables.
+- The cleaned dataset is then taken and PCA is performed.
